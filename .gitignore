@@ -1,0 +1,9 @@
+/**/.git/
+/**/.idea/
+
+/**/.directory
+/**/obj/
+/**/bin/
+
+.env
+.vscode
